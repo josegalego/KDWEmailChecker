@@ -48,6 +48,9 @@ It is much easy if you already have SES and at least one domain verified.
   2. Choose the AWS Lambda function you create in 3
   3. Give the permission if asked
 
+## Disclaimer
+
+We will capture your e-mail address only for the purpose of not permitting more than one test per day. We will not use the e-mails for any other purpose.
 
 ## Feedback
 
