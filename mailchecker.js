@@ -68,7 +68,7 @@ exports.handler = function (event, context) {
                 bodyText = bodyText + "SPAM:  " + sesNotification.receipt.spamVerdict.status + "\n";
                 bodyText = bodyText + "VIRUS: " + sesNotification.receipt.virusVerdict.status + "\n";
                 bodyText = bodyText + "\n\n KDW Email Checker - A Serverless solution powered by AWS SES + AWS Lambda\n";
-                bodyText = bodyText + "www.kdw.com.br"
+                bodyText = bodyText + "kdw.cloud"
 
             }
             else {
